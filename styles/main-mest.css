@@ -335,3 +335,7 @@ fieldset {
 :-ms-input-placeholder {
  color:#888;
 }
+
+table {
+    border: 1px #888;
+}
